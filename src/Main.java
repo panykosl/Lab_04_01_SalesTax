@@ -5,5 +5,4 @@ public class Main {
         finalPrice = price * 1.05;
         System.out.println("The price of " + price + " and sales tax is " + finalPrice);
     }
-
 }
